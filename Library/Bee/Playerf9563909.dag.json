@@ -434,17 +434,6 @@
       "DebugActionIndex": 23
     },
     {
-      "Annotation": "CopyFiles Builds/Goalfest_Data/sharedassets0.resource",
-      "ActionType": "CopyFiles",
-      "Inputs": [
-        "Library/PlayerDataCache/Win64/Data/sharedassets0.resource"
-      ],
-      "Outputs": [
-        "Builds/Goalfest_Data/sharedassets0.resource"
-      ],
-      "DebugActionIndex": 24
-    },
-    {
       "Annotation": "CopyFiles Builds/Goalfest_Data/sharedassets1.assets",
       "ActionType": "CopyFiles",
       "Inputs": [
@@ -453,7 +442,29 @@
       "Outputs": [
         "Builds/Goalfest_Data/sharedassets1.assets"
       ],
+      "DebugActionIndex": 24
+    },
+    {
+      "Annotation": "CopyFiles Builds/Goalfest_Data/sharedassets1.assets.resS",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/sharedassets1.assets.resS"
+      ],
+      "Outputs": [
+        "Builds/Goalfest_Data/sharedassets1.assets.resS"
+      ],
       "DebugActionIndex": 25
+    },
+    {
+      "Annotation": "CopyFiles Builds/Goalfest_Data/sharedassets1.resource",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/sharedassets1.resource"
+      ],
+      "Outputs": [
+        "Builds/Goalfest_Data/sharedassets1.resource"
+      ],
+      "DebugActionIndex": 26
     },
     {
       "Annotation": "CopyFiles Builds/Goalfest_Data/sharedassets2.assets",
@@ -464,7 +475,7 @@
       "Outputs": [
         "Builds/Goalfest_Data/sharedassets2.assets"
       ],
-      "DebugActionIndex": 26
+      "DebugActionIndex": 27
     },
     {
       "Annotation": "CopyFiles Builds/Goalfest_Data/sharedassets3.assets",
@@ -475,7 +486,7 @@
       "Outputs": [
         "Builds/Goalfest_Data/sharedassets3.assets"
       ],
-      "DebugActionIndex": 27
+      "DebugActionIndex": 28
     },
     {
       "Annotation": "CopyFiles Builds/Goalfest_Data/sharedassets4.assets",
@@ -486,7 +497,7 @@
       "Outputs": [
         "Builds/Goalfest_Data/sharedassets4.assets"
       ],
-      "DebugActionIndex": 28
+      "DebugActionIndex": 29
     },
     {
       "Annotation": "CopyFiles Builds/Goalfest_Data/sharedassets5.assets",
@@ -496,17 +507,6 @@
       ],
       "Outputs": [
         "Builds/Goalfest_Data/sharedassets5.assets"
-      ],
-      "DebugActionIndex": 29
-    },
-    {
-      "Annotation": "CopyFiles Builds/Goalfest_Data/sharedassets5.assets.resS",
-      "ActionType": "CopyFiles",
-      "Inputs": [
-        "Library/PlayerDataCache/Win64/Data/sharedassets5.assets.resS"
-      ],
-      "Outputs": [
-        "Builds/Goalfest_Data/sharedassets5.assets.resS"
       ],
       "DebugActionIndex": 30
     },

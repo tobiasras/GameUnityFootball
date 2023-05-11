@@ -73,13 +73,13 @@ ScriptsOnlyBuild:
     methodName: End
   - assembly: Assembly-CSharp
     fullTypeName: MenuControlls
-    methodName: Reset
+    methodName: StartGame
   - assembly: Assembly-CSharp
     fullTypeName: MenuControlls
     methodName: End
   - assembly: Assembly-CSharp
     fullTypeName: MenuControlls
-    methodName: StartGame
+    methodName: Reset
   sceneClasses:
     Assets/Scenes/EndScreen.unity:
     - Class: 1
@@ -107,23 +107,23 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1548}
     - Class: 114
-      Script: {instanceID: 2656}
+      Script: {instanceID: 2086}
     - Class: 114
-      Script: {instanceID: 2980}
+      Script: {instanceID: 2658}
     - Class: 114
-      Script: {instanceID: 3188}
+      Script: {instanceID: 2982}
     - Class: 114
-      Script: {instanceID: 5328}
+      Script: {instanceID: 3190}
     - Class: 114
-      Script: {instanceID: 5944}
+      Script: {instanceID: 4776}
     - Class: 114
-      Script: {instanceID: 6100}
+      Script: {instanceID: 5332}
     - Class: 114
-      Script: {instanceID: 6446}
+      Script: {instanceID: 5948}
     - Class: 114
-      Script: {instanceID: 49098}
+      Script: {instanceID: 6104}
     - Class: 114
-      Script: {instanceID: 63038}
+      Script: {instanceID: 6450}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -159,8 +159,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
-    - Class: 49
-      Script: {instanceID: 0}
     - Class: 54
       Script: {instanceID: 0}
     - Class: 64
@@ -184,35 +182,27 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1668}
     - Class: 114
-      Script: {instanceID: 2216}
-    - Class: 114
-      Script: {instanceID: 2656}
-    - Class: 114
-      Script: {instanceID: 3458}
+      Script: {instanceID: 2658}
     - Class: 114
       Script: {instanceID: 3460}
     - Class: 114
-      Script: {instanceID: 4152}
+      Script: {instanceID: 3462}
     - Class: 114
-      Script: {instanceID: 4268}
+      Script: {instanceID: 4940}
     - Class: 114
-      Script: {instanceID: 4546}
+      Script: {instanceID: 5272}
     - Class: 114
-      Script: {instanceID: 4936}
+      Script: {instanceID: 5332}
     - Class: 114
-      Script: {instanceID: 5268}
+      Script: {instanceID: 5948}
     - Class: 114
-      Script: {instanceID: 5328}
+      Script: {instanceID: 6104}
     - Class: 114
-      Script: {instanceID: 5944}
+      Script: {instanceID: 6450}
     - Class: 114
-      Script: {instanceID: 6100}
+      Script: {instanceID: 7040}
     - Class: 114
-      Script: {instanceID: 6446}
-    - Class: 114
-      Script: {instanceID: 7036}
-    - Class: 114
-      Script: {instanceID: 29780}
+      Script: {instanceID: 7774}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -277,23 +267,23 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1668}
     - Class: 114
-      Script: {instanceID: 3458}
-    - Class: 114
       Script: {instanceID: 3460}
     - Class: 114
-      Script: {instanceID: 4936}
+      Script: {instanceID: 3462}
     - Class: 114
-      Script: {instanceID: 5268}
+      Script: {instanceID: 4940}
     - Class: 114
-      Script: {instanceID: 5328}
+      Script: {instanceID: 5272}
     - Class: 114
-      Script: {instanceID: 5944}
+      Script: {instanceID: 5332}
     - Class: 114
-      Script: {instanceID: 6100}
+      Script: {instanceID: 5948}
     - Class: 114
-      Script: {instanceID: 7036}
+      Script: {instanceID: 6104}
     - Class: 114
-      Script: {instanceID: 29780}
+      Script: {instanceID: 7040}
+    - Class: 114
+      Script: {instanceID: 7774}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -358,23 +348,23 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1668}
     - Class: 114
-      Script: {instanceID: 3458}
-    - Class: 114
       Script: {instanceID: 3460}
     - Class: 114
-      Script: {instanceID: 4936}
+      Script: {instanceID: 3462}
     - Class: 114
-      Script: {instanceID: 5268}
+      Script: {instanceID: 4940}
     - Class: 114
-      Script: {instanceID: 5328}
+      Script: {instanceID: 5272}
     - Class: 114
-      Script: {instanceID: 5944}
+      Script: {instanceID: 5332}
     - Class: 114
-      Script: {instanceID: 6100}
+      Script: {instanceID: 5948}
     - Class: 114
-      Script: {instanceID: 7036}
+      Script: {instanceID: 6104}
     - Class: 114
-      Script: {instanceID: 29780}
+      Script: {instanceID: 7040}
+    - Class: 114
+      Script: {instanceID: 7774}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -439,25 +429,25 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1668}
     - Class: 114
-      Script: {instanceID: 2406}
-    - Class: 114
-      Script: {instanceID: 3458}
+      Script: {instanceID: 2408}
     - Class: 114
       Script: {instanceID: 3460}
     - Class: 114
-      Script: {instanceID: 4936}
+      Script: {instanceID: 3462}
     - Class: 114
-      Script: {instanceID: 5268}
+      Script: {instanceID: 4940}
     - Class: 114
-      Script: {instanceID: 5328}
+      Script: {instanceID: 5272}
     - Class: 114
-      Script: {instanceID: 5944}
+      Script: {instanceID: 5332}
     - Class: 114
-      Script: {instanceID: 6100}
+      Script: {instanceID: 5948}
     - Class: 114
-      Script: {instanceID: 7036}
+      Script: {instanceID: 6104}
     - Class: 114
-      Script: {instanceID: 29780}
+      Script: {instanceID: 7040}
+    - Class: 114
+      Script: {instanceID: 7774}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -522,27 +512,27 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1668}
     - Class: 114
-      Script: {instanceID: 2406}
-    - Class: 114
-      Script: {instanceID: 3458}
+      Script: {instanceID: 2408}
     - Class: 114
       Script: {instanceID: 3460}
     - Class: 114
-      Script: {instanceID: 4936}
+      Script: {instanceID: 3462}
     - Class: 114
-      Script: {instanceID: 5268}
+      Script: {instanceID: 4940}
     - Class: 114
-      Script: {instanceID: 5328}
+      Script: {instanceID: 5272}
     - Class: 114
-      Script: {instanceID: 5944}
+      Script: {instanceID: 5332}
     - Class: 114
-      Script: {instanceID: 6100}
+      Script: {instanceID: 5948}
     - Class: 114
-      Script: {instanceID: 7036}
+      Script: {instanceID: 6104}
     - Class: 114
-      Script: {instanceID: 8204}
+      Script: {instanceID: 7040}
     - Class: 114
-      Script: {instanceID: 29780}
+      Script: {instanceID: 7774}
+    - Class: 114
+      Script: {instanceID: 8210}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -578,6 +568,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
+    - Class: 49
+      Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
     - Class: 89
@@ -591,19 +583,27 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1548}
     - Class: 114
-      Script: {instanceID: 2656}
+      Script: {instanceID: 2218}
     - Class: 114
-      Script: {instanceID: 3188}
+      Script: {instanceID: 2658}
     - Class: 114
-      Script: {instanceID: 5328}
+      Script: {instanceID: 3190}
     - Class: 114
-      Script: {instanceID: 5944}
+      Script: {instanceID: 4154}
     - Class: 114
-      Script: {instanceID: 6100}
+      Script: {instanceID: 4270}
     - Class: 114
-      Script: {instanceID: 6446}
+      Script: {instanceID: 4548}
     - Class: 114
-      Script: {instanceID: 49098}
+      Script: {instanceID: 4776}
+    - Class: 114
+      Script: {instanceID: 5332}
+    - Class: 114
+      Script: {instanceID: 5948}
+    - Class: 114
+      Script: {instanceID: 6104}
+    - Class: 114
+      Script: {instanceID: 6450}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -699,6 +699,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: TMPro.Examples
     className: SimpleScript
+  - hash:
+      serializedVersion: 2
+      Hash: 7bd61201d67b035aef033c9f327c3651
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: EndMessage
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -1145,6 +1151,12 @@ ScriptsOnlyBuild:
     className: UnityOnPointerClickMessageListener
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MenuControlls
+  - hash:
+      serializedVersion: 2
       Hash: b6514f552bd2ee9e736a5678aa7f7de3
     assemblyName: Assembly-CSharp.dll
     namespaceName: TMPro.Examples
@@ -1542,6 +1554,12 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Controlls
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnParticleCollisionMessageListener
@@ -1647,31 +1665,13 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Controlls
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: MenuControlls
-  - hash:
-      serializedVersion: 2
-      Hash: 7bd61201d67b035aef033c9f327c3651
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: EndMessage
   platform: 19
   scenePathNames:
+  - Assets/Scenes/StartScreen.unity
   - Assets/Scenes/Level1.unity
   - Assets/Scenes/Level2.unity
   - Assets/Scenes/Level3.unity
   - Assets/Scenes/Level4.unity
   - Assets/Scenes/Level5.unity
   - Assets/Scenes/EndScreen.unity
-  - Assets/Scenes/StartScreen.unity
   playerPath: C:/Users/tobia/Documents/Codebases/Unity/Goalfest/Builds/Goalfest.exe
